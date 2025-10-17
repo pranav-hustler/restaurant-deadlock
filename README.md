@@ -1,9 +1,6 @@
-cat > README.md << 'EOF'
 # 🍳 Restaurant Kitchen Deadlock Simulator
 
 An interactive web-based educational tool that demonstrates operating system deadlock concepts using a familiar restaurant kitchen analogy.
-
-![Restaurant Kitchen Deadlock Simulator](screenshots/deadlock_alert.png)
 
 ## 🎯 Project Overview
 
@@ -34,7 +31,7 @@ This simulator visualizes deadlock in operating systems through an intuitive res
 
 ## 🚀 Live Demo
 
-👉 **[Try it Live!](https://YOUR_USERNAME.github.io/restaurant-deadlock-simulator/)**
+👉 **[Try it Live!](https://pranav-hustler.github.io/restaurant-deadlock/)**
 
 ## 🛠️ Technologies Used
 
