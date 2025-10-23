@@ -143,7 +143,7 @@ function checkDeadlock():
 ## 👥 Team
 
 **Developed by:**
-- **Pranav Gonuguntla** (RA2411003010685) - Algorithm Implementation
+- **Pranav Gonuguntla** 
 
 ## 🤝 Contributing
 
