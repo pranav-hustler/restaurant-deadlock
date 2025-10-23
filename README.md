@@ -181,13 +181,6 @@ MIT License - Feel free to use for educational purposes!
 
 - [CPU Scheduling Visualizer](https://github.com/pranav-hustler/cpu-scheduling-visualizer) - Interactive visualization of CPU scheduling algorithms
 
-## 📧 Contact
-
-For questions or feedback:
-- **Email:** pranavgonuguntla63@gmail.com
-- **GitHub Issues:** [Open an issue](https://github.com/pranav-hustler/restaurant-deadlock-simulator/issues)
-
----
 
 **⭐ Star this repo if you found it helpful for learning OS concepts!**
 
